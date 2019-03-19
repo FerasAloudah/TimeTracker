@@ -1,0 +1,9 @@
+.text-area {
+    -fx-text-fill: gold; 
+	-fx-border-color: gold;
+	-fx-background-color: #0c1816; 
+}
+
+.text-area .content {
+    -fx-background-color: #0c1816;
+}
